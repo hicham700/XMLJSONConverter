@@ -1,0 +1,4 @@
+pour executer ce code est avoir application fait ce commande sur votre cmd :
+mvn clean javafx:run
+                        
+mais assurer qui tu es utiliser java 23 ou configurer pom.xml avec  votre choix 
